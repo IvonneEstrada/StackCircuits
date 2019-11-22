@@ -20,7 +20,7 @@
 
 <body>
 <nav>
-    <img src="./imagenes/newlogo.png" alt="logo empresa" class="logo">
+    <img src="./imagenes/newlogo.jpg" alt="logo empresa" class="logo">
 </nav>
 <main>
     <div class="seccion">

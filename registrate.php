@@ -9,7 +9,7 @@
     </head>
     <body>
         <form action="./mapa.php" method="post" class="seccion">
-            <img src="./imagenes/newlogo.png" alt="logo empresa" class="logo">
+            <img src="./imagenes/newlogo.jpg" alt="logo empresa" class="logo">
             <h2>¡Únete a nosotros!</h2>
             <label >Usuario</label>
             <input type="text" class="dat" required name="usuario"> 
