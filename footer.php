@@ -14,7 +14,7 @@
                         <ul>
                             <li>Nuestro correo electronico: <a href="#"><i class="fas fa-envelope"></i> JIBE@gmail.com</a></li>
                             <li>Nuestro numero telefonico: <a href="#"><i class="fas fa-mobile-alt"></i> 444-304-0530</a></li>
-                            <li>Nuestra pagina de Facebook: <a href="https://www.facebook.com/TAIM-109276213853042/"><i class="fab fa-facebook-f"></i> TAIM</a></li>
+                            
                         </ul>
                     </div>
                 </div>
