@@ -25,10 +25,11 @@
 <main>
     <div class="seccion">
         <div class="dropdown">
-            <button class="dropbtn">Rutas Disponibles</button>
+            <button class="dropbtn">Establecimientos Disponibles</button>
             <div class="dropdown-content" style="display:block">
-                <a href="#">Ruta 27</a>
-                <a href="#">Ruta 9</a>
+                <a href="#">Aleman</a>
+                <a href="#">Electronic</a>
+                
             </div>
         </div>
         <div class="mapadiv">
