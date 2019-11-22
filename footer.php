@@ -5,7 +5,7 @@
                         <p>
                             <i>
                                 En JIBE nos vamos a asegurar que usted 
-                                siempre este ahorre <b>tiempo</b>.
+                                siempre ahorre <b>tiempo</b>.
                             </i>
                         </p>
                     </div>
